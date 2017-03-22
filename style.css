@@ -50,6 +50,10 @@ nav a.active {
   color: #e3eae0;
 }
 
+nav ul {
+	margin: 0;
+}
+
 main {
   width: 960px;
   display: block;
